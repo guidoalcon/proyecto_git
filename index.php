@@ -27,4 +27,6 @@ echo 'hola mundo desde PHP';
 
 	</p>
 
+	<a href="www.eduacionelim.bolivia.com">Ingresa a ELIM</a>
+
 </html>
