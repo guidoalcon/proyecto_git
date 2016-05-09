@@ -22,8 +22,8 @@
 			<h6 class="lato">Alimentando nuestra vida con mensajes de edificación</h6>
 			<nav>
 			<a href="" class="espacio-derecha">Inicio</a>
-			<a href="articulo.php"class="espacio-derecha">Artículo del Día</a>
-			<a href="" class="espacio-derecha">Acerca de</a>
+			<a href="mensaje.php"class="espacio-derecha">Mensaje del Día</a>
+			<a href="contacto.php" class="espacio-derecha">Contacto</a>
 			</nav>
 
 		</div>
