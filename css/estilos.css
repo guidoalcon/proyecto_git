@@ -1,0 +1,42 @@
+body{
+	background-color: #43888F;
+	color: white;
+}
+.imagen_principal{
+	max-width: 100%;
+}
+.quitar-float{
+	float: none;
+	margin-top: 50px; 
+}
+.pacifico{
+	font-family: 'Pacifico', cursive;
+	font-size: 3em;
+	color: #D8D9A9;
+}
+.lato{
+	font-family: 'Lato', sans-serif;
+	font-size: 1em;
+}
+a{
+	color: #1F223F;
+}
+.espacio-derecha{
+
+	margin-right: 1em;
+}
+.no-lista li{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+
+	float:none;
+	display: inline-block;
+	margin-right: -4px
+}
+.navegacion{
+	color: black;
+	padding: 5px 10px;
+	background-color: #eee;
+	
+}

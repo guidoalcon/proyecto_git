@@ -12,30 +12,30 @@
 	</head>
 	<body>
 		
-		<!--<div class="row">
-			
+		<nav class="navegacion text-center">
+			<ul class="no-lista">
+				<li class="col-md-3">Inicio</li>
+				<li class="col-md-3">Articulo</li>
+				<li class="col-md-3">Acerca De</li>
 
-		<div class="col-md-6">
+			</ul>
 
-			
-		</div>
-		<div class="col-md-6">
-			Queridos amigos esto es una div de del otro lado
-		</div>
-		</div>-->
-		<div class="col-md-6 center-block text-center quitar-float ">
-			
-			<img src="images/v6.jpg" width="450px" class="imagen_pricipal" />
-			
-			<h1 class="pacifico">Vivé la vida con Amor a  Dios</h1>
-			<h6 class="lato">Alimentando nuestra vida con mensajes de edificación</h6>
-			<nav>
-			<a href="" class="espacio-derecha">Inicio</a>
-			<a href="articulo.php"class="espacio-derecha">Artículo del Día</a>
-			<a href="" class="espacio-derecha">Acerca de</a>
-			</nav>
+		</nav>
 
+		<section>
+		<div class="text-center">
+			
+			<h1 class="pacifico">Menu</h1>
+			<article>
+				
+				<p>
+					
+					Bienvenido a nuestra pagina web
+				</p>
+			</article>
 		</div>
+			
+		</section>
 
 </body>
 </html>
