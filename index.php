@@ -12,17 +12,8 @@
 	</head>
 	<body>
 		
-		<!--<div class="row">
-			
-
-		<div class="col-md-6">
-
-			
-		</div>
-		<div class="col-md-6">
-			Queridos amigos esto es una div de del otro lado
-		</div>
-		</div>-->
+		<div class="fondo">
+		
 		<div class="col-md-6 center-block text-center quitar-float ">
 			
 			<img src="images/v6.jpg" width="450px" class="imagen_pricipal" />
@@ -37,5 +28,10 @@
 
 		</div>
 
+		</div>
+		<br /><br />
+		<div>
+			
+		</div>
 </body>
 </html>

@@ -1,6 +1,15 @@
 body{
-	background-color: #43888F;
+	
 	color: white;
+	background: rgba(67,136,143,1);
+background: -moz-linear-gradient(top, rgba(67,136,143,1) 0%, rgba(9,10,36,1) 90%, rgba(9,10,36,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(67,136,143,1)), color-stop(90%, rgba(9,10,36,1)), color-stop(100%, rgba(9,10,36,1)));
+background: -webkit-linear-gradient(top, rgba(67,136,143,1) 0%, rgba(9,10,36,1) 90%, rgba(9,10,36,1) 100%);
+background: -o-linear-gradient(top, rgba(67,136,143,1) 0%, rgba(9,10,36,1) 90%, rgba(9,10,36,1) 100%);
+background: -ms-linear-gradient(top, rgba(67,136,143,1) 0%, rgba(9,10,36,1) 90%, rgba(9,10,36,1) 100%);
+background: linear-gradient(to bottom, rgba(67,136,143,1) 0%, rgba(9,10,36,1) 90%, rgba(9,10,36,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#43888f', endColorstr='#090a24', GradientType=0 );
+
 }
 .imagen_principal{
 	max-width: 100%;
@@ -19,7 +28,7 @@ body{
 	font-size: 1em;
 }
 a{
-	color: #1F223F;
+	color: #EEDCB0;
 }
 .espacio-derecha{
 
@@ -40,3 +49,7 @@ a{
 	background-color: #eee;
 	
 }
+.fondo{
+	
+	}
+
